@@ -7,6 +7,6 @@ Repositório destinado para guardar atividades e trabalhos desenvolvidos durante
 
 **Linguagem utilizada:** Java.
 
-Para visualizar os códigos desenvolvidos das listas acesse a pasta referente a lista que deseja, e entre na pasta src.
+Para visualizar os códigos desenvolvidos das listas, acesse a pasta referente a lista que deseja, e entre na pasta src.
 
-**Exemplo:** lista_exercicios/src
+**Exemplo:** lista_exercicio1/src/Lista01
