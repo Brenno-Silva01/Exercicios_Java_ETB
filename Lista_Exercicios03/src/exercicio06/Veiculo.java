@@ -26,11 +26,21 @@ public class Veiculo {
         this.proprietario = proprietario;
     }
 
+    // Metodo para verificar se eh possivel fazer seguro por conta do ano do veículo.
+    public String analiseAno() {
+        if (ano < 2010) {
+            return "O VEÍCULO NÃO PODE RECEBER UM SEGURO DEVIDO AO ANO SER INFERIOR A 2010";
+        } else {
+            return "O VEÍCULO ESTÁ APTO A RECEBER SEGURO";
+        }
+    }
+
     @Override
     public String toString() {
         return "VEICULO" +
                 "\nProprietario: " + proprietario
                 + "\nAno: " + ano
+                + "\nAnalise de seguro: " + analiseAno()
                 + "\n------------";
     }
 }
