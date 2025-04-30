@@ -1,12 +1,17 @@
-# **ETB** - Escola Técnica de Brasília.
-# **Matéria:** Linguagem Técnica e Programação I.
-# **Semestre:** 2025/1
+# **ETB** - Escola Técnica de Brasília  
+**Matéria:** Linguagem Técnica e Programação I  
+**Semestre:** 2025/1
 
 ## **Descrição:**
-Repositório destinado para guardar atividades e trabalhos desenvolvidos durante a matéria de *Linguagem Técnica e Programação I* do Curso de Técnico em Informática da ETB(Escola Técnica de Brasília).
+Este repositório é destinado ao armazenamento das atividades e trabalhos desenvolvidos durante a matéria de *Linguagem Técnica e Programação I* no Curso de Técnico em Informática da **Escola Técnica de Brasília (ETB)**.
 
 **Linguagem utilizada:** Java.
 
-Para visualizar os códigos desenvolvidos das listas, acesse a pasta referente a lista que deseja, e entre na pasta src.
+## **Estrutura do Repositório:**
+Cada exercício ou atividade está organizado em pastas, conforme o número da lista. Dentro de cada pasta, você encontrará o código-fonte relacionado.
 
-**Exemplo:** lista_exercicio1/src/Lista01
+### **Exemplo de navegação:**
+Para visualizar o código de um exercício específico, acesse a pasta correspondente à lista e, em seguida, entre na subpasta `src`.
+
+**Formato de caminho:**  
+`lista_Exercicios01/src/...`
