@@ -26,6 +26,6 @@ public class Veiculo {
         return "VEICULO" +
                 "\nProprietario: " + proprietario
                 + "\nAno: " + ano
-                + "------------";
+                + "\n------------";
     }
 }

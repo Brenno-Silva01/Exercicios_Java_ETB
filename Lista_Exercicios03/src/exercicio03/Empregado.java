@@ -1,12 +1,12 @@
 package exercicio03;
 
-import java.util.Date;
+import java.time.LocalDate;
 
 public class Empregado {
 
     private String nome;
     private String matricula;
-    private Date dataNascimento;
+    private LocalDate dataNascimento;
     private double salario;
 
     public String getNome() {
@@ -25,11 +25,11 @@ public class Empregado {
         this.matricula = matricula;
     }
 
-    public Date getDataNascimento() {
+    public LocalDate getDataNascimento() {
         return dataNascimento;
     }
 
-    public void setDataNascimento(Date dataNascimento) {
+    public void setDataNascimento(LocalDate dataNascimento) {
         this.dataNascimento = dataNascimento;
     }
 
@@ -48,6 +48,6 @@ public class Empregado {
                 "\nMatrícula: " + matricula +
                 "\nData de Nascimento: " + dataNascimento +
                 "\nSalário: " + salario +
-                "------------";
+                "\n------------";
     }
 }
