@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff2da98-ad57-41ce-85a9-1f76083624b4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Java_ETB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Java_ETB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista01/Exercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista01/Exercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio04_Composta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio04_Composta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio04_Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio04_Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio08_For.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio08_For.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio08_While.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio08_While.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_Exercicios02/out/production/Exercicios_Java_ETB/Lista02/Exercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios_Java_ETB/Lista02/Exercicio10.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
